@@ -2,7 +2,7 @@
 Ultimate Currency filter for country wise symbol and formatters
 
 ## How to Use : 
-
+- Download the angular-iso-currency-filter.module.js file and keep it in proper place of your project.
 - Initialize Currency Filter to set some data in $rootScope :
 
 ```JavaScript
